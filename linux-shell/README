@@ -1,0 +1,13 @@
+# Liqiang Mei(9485632), James Wang(8820169)
+#Project 1 - Simple_shell
+
+This is a implementation of a simple shell program. We have implemented cases of this shell program to handle commands as well as characters such as '>', '<', '|' and '&'.
+We have tested our shell program by running single commands, commands with arguments, commands with '&' as well as commands containing mutiple pipelines on a CSIL machine and found no issue.
+
+Running guideline:
+1. cd into file directory
+2. make
+3. ./simple_shell(with 'shell' prompt)
+or ./simple_shell -n (without any prompt for auto grader)
+
+Control-D to exit the program.
